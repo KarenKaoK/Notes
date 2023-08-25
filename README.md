@@ -15,10 +15,12 @@ To address the RAM limitation issue during feature engineering, the following st
 
 
 ## pip list
+```
 pip install pandas
 pip install openpyxl
 pip install psutil # ram monitor
 pip install tqdm
+```
 
 ## data 
 - from kaggle : https://www.kaggle.com/datasets/apoorvwatsky/bank-transaction-data?sort=votes
